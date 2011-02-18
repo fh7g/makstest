@@ -36,8 +36,7 @@ function buttonHandler (event)
 		showScreen(mainMenu)
 		elseif ("LevelBack" == event.id) then
 		showScreen(levelSelection)
-		elseif ("Level01_01" == event.id) then
-		showScreen(level01_01)
+
 		
 		
 		end
